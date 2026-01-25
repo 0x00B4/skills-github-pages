@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
+layout: post
+title: "My first post"
+date: 2026-01-25
 ---
 
-just a test..
+Hello world.
