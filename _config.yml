@@ -2,11 +2,9 @@ title: BTN4
 description: My reverse engineering journey — beginner friendly notes and logs
 author: BTN4
 
-remote_theme: https://github.com/sharadcodes/jekyll-theme-serial-programmer
+remote_theme: sharadcodes/jekyll-theme-serial-programmer
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-
-
-
