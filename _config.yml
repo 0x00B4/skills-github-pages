@@ -1,3 +1,11 @@
 theme: minima
-title: BTN4 RE Blog
+title: BTN4
+description: My reverse engineering journey — beginner friendly notes and logs
 author: BTN4
+url: https://paco-hub.github.io/skills-github-pages/
+
+remote_theme: sharadcodes/jekyll-theme-serial-programmer
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
