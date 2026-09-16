@@ -1,6 +1,10 @@
 title: eSperClient 1267 Research Notes
 description: Evidence-based notes on the S4 League v1267 client, resources, formats, and runtime behavior
-author: 0x00b4
+author:
+  name: 0x00b4
+url: https://0x00b4.github.io/skills-github-pages
+baseurl: /skills-github-pages
+permalink: /posts/:title/
 
 remote_theme: sharadcodes/jekyll-theme-serial-programmer
 
