@@ -20,9 +20,9 @@ marked as unsupported instead of being filled in with guesses.
 
 ## Series
 
-1. [From encrypted resource index to a safe catalog](/skills-github-pages/posts/resource-index-pipeline/)
-2. [SCN, SEQ, and OCT: three different binary worlds](/skills-github-pages/posts/scn-seq-oct/)
-3. [How a map becomes geometry in the client](/skills-github-pages/posts/map-loading-pipeline/)
-4. [Ticks, activation windows, and deterministic effect updates](/skills-github-pages/posts/ticks-and-effects/)
-5. [The actor state machine: run, jump, fall, and walljump](/skills-github-pages/posts/actor-state-machine/)
-6. [What the browser/WASM port can and cannot claim](/skills-github-pages/posts/reconstruction-boundaries/)
+1. [From encrypted resource index to a safe catalog](/skills-github-pages/blog/resource-index-pipeline/)
+2. [SCN, SEQ, and OCT: three different binary worlds](/skills-github-pages/blog/scn-seq-oct/)
+3. [How a map becomes geometry in the client](/skills-github-pages/blog/map-loading-pipeline/)
+4. [Ticks, activation windows, and deterministic effect updates](/skills-github-pages/blog/ticks-and-effects/)
+5. [The actor state machine: run, jump, fall, and walljump](/skills-github-pages/blog/actor-state-machine/)
+6. [What the browser/WASM port can and cannot claim](/skills-github-pages/blog/reconstruction-boundaries/)

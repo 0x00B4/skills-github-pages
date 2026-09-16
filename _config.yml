@@ -4,7 +4,7 @@ author:
   name: 0x00b4
 url: https://0x00b4.github.io/skills-github-pages
 baseurl: /skills-github-pages
-permalink: /posts/:title/
+permalink: /blog/:title/
 
 remote_theme: sharadcodes/jekyll-theme-serial-programmer
 
